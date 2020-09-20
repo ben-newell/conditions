@@ -1,4 +1,4 @@
-## I made some go-to macOS SysAdmin scrips for fact retrieving. 
+## I made some go-to macOS SysAdmin scripts for fact retrieving. 
 
 > written in c++
 
