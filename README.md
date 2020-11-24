@@ -1,6 +1,6 @@
 # Introduction
-## I made some go-to macOS SysAdmin scripts for fact retrieving.
-> clang-1200.0.26.2 - compiler used on my client.
+## Made some go-to macOS SysAdmin scripts for fact retrieving.
+> clang-1200.0.26.2 - used on client.
 ### Some helpful resources
 
 | Description | Link |
